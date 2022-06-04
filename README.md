@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dinethlive" target="blank"><img src="https://img.shields.io/twitter/follow/dinethlive?logo=twitter&style=for-the-badge" alt="dinethlive" /></a> </p>
 
-- 🌱 I’m currently learning **WEB | SMC Trading **
+- 🌱 I’m currently learning <b>WEB | SMC Trading</b>
 
 - 💬 Ask me about **Binary/Day Trading**
 
