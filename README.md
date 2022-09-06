@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/dinethlive" target="blank"><img src="https://img.shields.io/twitter/follow/dinethlive?logo=twitter&style=for-the-badge" alt="dinethlive" /></a> </p>
 
 
-- 📫 Mail Me **dinethlive@gmail.com**
+- 📫 Mail **dinethlive@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
