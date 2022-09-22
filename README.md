@@ -5,7 +5,6 @@
 
 
 - 📫 **Gmail =>** **dinethlive@gmail.com**
-- 📫 **Telegram Channel =>** **https://t.me/dina_bro**
 - 📫 **Temp Website =>** **http://dineth.is-best.net**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
