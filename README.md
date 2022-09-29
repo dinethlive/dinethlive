@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dineth Pramodya</h1>
-<h3 align="center">Full-Stack Dev | AlgoTrader</h3>
+<h3 align="center">Full-Stack Dev | Trading Analyst</h3>
 
 <p align="left"> <a href="https://twitter.com/dinethlive" target="blank"><img src="https://img.shields.io/twitter/follow/dinethlive?logo=twitter&style=for-the-badge" alt="dinethlive" /></a> </p>
 
