@@ -9,7 +9,7 @@
 
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=dinethlive&color=grey">
-    <h2 align="center">Portfolio => <a href="https://dinethlive.netlify.app">Visit Now !</a></h2>
+    <h2 align="center">Portfolio => <a href="https://dineth.lk">Visit Now !</a></h2>
 </p>
 <p align="center">
     <a href="https://github.com/dinethlive"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethlive&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
