@@ -44,5 +44,3 @@ He has previously collaborated with **Lion Brewery, SLT-Mobitel, Fairfirst Insur
 - **Bakery Buddy** – Real-time web app for delivery tuk-tuks & product voting  
 - **BuddyGo** – Community-based travel buddy platform in Sri Lanka  
 
----
-
