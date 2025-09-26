@@ -1,16 +1,54 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-<p align="center">
-    <h1 align="center">Hi!</h1>
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wooooooooooo+hooooo;Welcome+to+my+Lab!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
+<h1 align="center">Hi, I'm Dineth 👋</h1>
 
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=dinethlive&color=grey">
-    <h2 align="center">Website => <a href="https://dineth.lk">Visit Now !</a></h2>
+  <img src="https://komarev.com/ghpvc/?username=dinethlive&color=blue&style=flat-square">
 </p>
+
+---
+
 <p align="center">
-    <a href="https://github.com/dinethlive"><img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethlive&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <i>“Ideas stay just thoughts until they’re executed. I love turning concepts into real, testable solutions and sharing the story behind them.”</i>
+</p>
+
+---
+
+### 👨‍💻 About Me  
+Dineth is an experienced **UX/UI Engineer (Product & AI)** specializing in **FinTech, Online Trading, and Wealth Management platforms**.  
+He has previously collaborated with **Lion Brewery, SLT-Mobitel, Fairfirst Insurance, General Sir John Kotelawala Defence University**, and several **FinTech companies in the USA**.  
+
+---
+
+### 💼 Experience  
+- **Adage Digital Ltd** – UX/UI Engineer L2 (Jan 2023 – Present)  
+- **Adage Digital Ltd** – Software Engineer Intern (Front-End) (Oct 2022 – Jan 2023)  
+
+---
+
+### 🎓 Education  
+- **BSc (Hons) in ICT** – University of Sri Jayewardenepura (2023 – 2027)  
+- **Certified Product Designer** – Uxcel (2023 – 2024)  
+
+---
+
+### 🛠️ Skills & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,react,nodejs,php,mysql,js,html,css,git,linux,aws" /><br>
+  <b>Specialties:</b> UX Research • Wireframing • Prototyping • Design Systems • Product Strategy • System Design • Lean Development
+</p>
+
+---
+
+### 🚀 Projects Highlight  
+- **Stocks Manager [NDA]** – Stock-related management platform with UX-focused workflows  
+- **Fleet Mgt by SLT Mobitel** – Scalable fleet-tracking system with responsive design  
+- **Bakery Buddy** – Real-time web app for delivery tuk-tuks & product voting  
+- **BuddyGo** – Community-based travel buddy platform in Sri Lanka  
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://dineth.lk">🌍 Portfolio</a> •
+  <a href="https://linkedin.com/in/dinethlive">💼 LinkedIn</a> •
+  <a href="mailto:hello@dineth.lk">✉️ Email</a>
 </p>
