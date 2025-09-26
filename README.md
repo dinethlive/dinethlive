@@ -46,9 +46,3 @@ He has previously collaborated with **Lion Brewery, SLT-Mobitel, Fairfirst Insur
 
 ---
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://dineth.lk">🌍 Portfolio</a> •
-  <a href="https://linkedin.com/in/dinethlive">💼 LinkedIn</a> •
-  <a href="mailto:hello@dineth.lk">✉️ Email</a>
-</p>
