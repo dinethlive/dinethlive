@@ -16,5 +16,5 @@
 Dineth is an experienced **UX/UI Engineer (Product & AI)** specializing in **FinTech, Online Trading, and Wealth Management platforms**.  
 He has previously collaborated with **Lion Brewery, SLT-Mobitel, Fairfirst Insurance, General Sir John Kotelawala Defence University**, and several **FinTech companies in the USA**.  
 
----
+
 
