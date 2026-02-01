@@ -9,6 +9,7 @@ I build AI-first trading products.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MetaTrader 5](https://img.shields.io/badge/-MetaTrader_5-000000?style=flat-square&logo=metatrader&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-512BD4?style=flat-square&logo=solana&logoColor=white)
+![Deriv](https://img.shields.io/badge/-Deriv-000000?style=flat-square&logo=deriv&logoColor=white)
 
 ## Live Projects
 
