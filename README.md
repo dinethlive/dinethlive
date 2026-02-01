@@ -30,7 +30,7 @@ I build AI-first trading products.
 - 🔮 **30days.health** - Vedic astrology forecasting engine integrated with LLMs.
 - 🌠 **Jhora-api** - High-precision REST API for Vedic Astrology calculations.
 
-## Expert Advisors
+## Projects (MT5 Expert Advisors)
 
 - 🧺 **[dbasket-EA](https://github.com/dinethlive/dbasket-EA)** - MT5 Expert Advisor for three-pair correlation hedging.
 - 🛰️ **[dlab_orbit_EA](https://github.com/dinethlive/dlab_orbit_EA)** - VWAP Breakout EA with Smart Recovery algorithms.
@@ -44,6 +44,11 @@ I build AI-first trading products.
 - 🎣 **[Fishing Game Patterns Recognizer](https://github.com/dinethlive/fishing-game-patterns-recognizer)** - Python tool for pattern recognition in fishing games.
 - 🎰 **[Crash Game Predictor](https://github.com/dinethlive/crash-game-predictor)** - GUI prediction tool for betting games using ML.
 - 🖼️ **NFT Marketplace** - Fully functional NFT marketplace in 2022(DCrypto).
+
+## My UI Designs
+
+- 🎨 **[Pinterest Portfolio](https://www.pinterest.com/dinethlive/)**
+![UI Preview](UI-preview.png)
 
 ## Connect
 
