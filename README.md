@@ -48,7 +48,7 @@ I build AI-first trading products.
 ## My UI Designs
 
 - 🎨 **[Pinterest Portfolio](https://www.pinterest.com/dinethlive/)**
-![UI Preview](UI-preview.png)
+![UI Preview](UI-preview-v1.png)
 
 ## Connect
 
