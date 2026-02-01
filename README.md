@@ -12,22 +12,22 @@ I build AI-first trading products.
 
 ## Live Projects
 
-- 🌊 **[waverider-pwa](https://www.tradewaverider.app)** - Gamified trading engine for Deriv with a minimal UI.
-- 🧠 **[dr-engine](https://dr-engine.vercel.app/)** - AI research framework generator using Perplexity AI.
+- 🌊 **[waverider-pwa](https://www.tradewaverider.app)** - Gamified trading engine for Deriv with a gamified UI.
+- 🧠 **[dr-engine](https://dr-engine.vercel.app/)** - AI themantic research questions generator using Perplexity AI.
 
 ## Projects (Fin-Tech)
 
 - 📉 **[vix scanner](https://github.com/dinethlive/vix-scanner)** - Real-time volatility monitoring for Deriv Accumulator Options.
 - 📊 **[PolyFlow](https://github.com/dinethlive/polyflow)** - Real-time analytics for Polymarket Solana 15-min markets.
-- 🌉 **Solana MT5 Bridge** - Visualizes Oracle settlement data in MT5 for resolution markets.
+- 🌉 **Solana MT5 Bridge** - Visualizes Oracle data realtime in MT5 for 15min crypto polymarkets.
 - 🔌 **Synapse** - Desktop bridge for MT5 trading signals to Deriv.com.
 
 ## Projects (Astrology)
 
-- 🔮 **30days.health** - Vedic astrology forecasting engine integrated with LLMs.
+- 🔮 **30days.health** - Vedic astrology forecasting engine for health and lifestyle insights.
 - 🌠 **Jhora-api** - High-precision REST API for Vedic Astrology calculations.
 
-## Expert Advisors
+## Projects (MT5 Expert Advisors)
 
 - 🧺 **[dbasket-EA](https://github.com/dinethlive/dbasket-EA)** - MT5 Expert Advisor for three-pair correlation hedging.
 - 🛰️ **[dlab_orbit_EA](https://github.com/dinethlive/dlab_orbit_EA)** - VWAP Breakout EA with Smart Recovery algorithms.
@@ -38,7 +38,6 @@ I build AI-first trading products.
 
 - 📈 **[MT5-Indicators Collection](https://github.com/dinethlive/MT5-indicators-collection)** - Collection of MT5 indicators for Deriv trading.
 - 💥 **[Crash Game Scanner](https://github.com/dinethlive/crash-game-scanner)** - Real-time monitor and predictor for 1xBet crash game.
-- 🗣️ **Natural Reader Unlimited** - Ebook reader with natural-sounding AI voices.
 - 🎣 **[Fishing Game Patterns Recognizer](https://github.com/dinethlive/fishing-game-patterns-recognizer)** - Python tool for pattern recognition in fishing games.
 - 🎰 **[Crash Game Predictor](https://github.com/dinethlive/crash-game-predictor)** - GUI prediction tool for betting games using ML.
 - 🖼️ **NFT Marketplace** - Fully functional NFT marketplace (DCrypto).
