@@ -2,6 +2,8 @@
 
 I build AI-first trading products.
 
+🎨 **Design (AI + UX/UI)** | 🛠️ **Engineering** | 📈 **Prediction Markets** | 📉 **Trading Systems** | 🔗 **Web3**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -9,26 +11,26 @@ I build AI-first trading products.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MetaTrader 5](https://img.shields.io/badge/-MetaTrader_5-000000?style=flat-square&logo=metatrader&logoColor=white)
 ![Solana](https://img.shields.io/badge/-Solana-512BD4?style=flat-square&logo=solana&logoColor=white)
-![Deriv](https://img.shields.io/badge/-Deriv-000000?style=flat-square&logo=deriv&logoColor=white)
+![Deriv](https://img.shields.io/badge/-Deriv-FF444F?style=flat-square&logo=deriv&logoColor=white)
 
 ## Live Projects
 
-- 🌊 **[waverider-pwa](https://www.tradewaverider.app)** - Gamified trading engine for Deriv with a gamified UI.
-- 🧠 **[dr-engine](https://dr-engine.vercel.app/)** - AI themantic research questions generator using Perplexity AI.
+- 🌊 **[waverider-pwa](https://www.tradewaverider.app)** - Gamified trading engine for Deriv with a minimal UI.
+- 🧠 **[dr-engine](https://dr-engine.vercel.app/)** - AI research framework generator using Perplexity AI.
 
 ## Projects (Fin-Tech)
 
 - 📉 **[vix scanner](https://github.com/dinethlive/vix-scanner)** - Real-time volatility monitoring for Deriv Accumulator Options.
 - 📊 **[PolyFlow](https://github.com/dinethlive/polyflow)** - Real-time analytics for Polymarket Solana 15-min markets.
-- 🌉 **Solana MT5 Bridge** - Visualizes Oracle data realtime in MT5 for 15min crypto polymarkets.
+- 🌉 **Solana MT5 Bridge** - Visualizes Oracle settlement data in MT5 for resolution markets.
 - 🔌 **Synapse** - Desktop bridge for MT5 trading signals to Deriv.com.
 
 ## Projects (Astrology)
 
-- 🔮 **30days.health** - Vedic astrology forecasting engine for health and lifestyle insights.
+- 🔮 **30days.health** - Vedic astrology forecasting engine integrated with LLMs.
 - 🌠 **Jhora-api** - High-precision REST API for Vedic Astrology calculations.
 
-## Projects (MT5 Expert Advisors)
+## Expert Advisors
 
 - 🧺 **[dbasket-EA](https://github.com/dinethlive/dbasket-EA)** - MT5 Expert Advisor for three-pair correlation hedging.
 - 🛰️ **[dlab_orbit_EA](https://github.com/dinethlive/dlab_orbit_EA)** - VWAP Breakout EA with Smart Recovery algorithms.
@@ -39,6 +41,7 @@ I build AI-first trading products.
 
 - 📈 **[MT5-Indicators Collection](https://github.com/dinethlive/MT5-indicators-collection)** - Collection of MT5 indicators for Deriv trading.
 - 💥 **[Crash Game Scanner](https://github.com/dinethlive/crash-game-scanner)** - Real-time monitor and predictor for 1xBet crash game.
+- 🗣️ **Natural Reader Unlimited** - Ebook reader with natural-sounding AI voices.
 - 🎣 **[Fishing Game Patterns Recognizer](https://github.com/dinethlive/fishing-game-patterns-recognizer)** - Python tool for pattern recognition in fishing games.
 - 🎰 **[Crash Game Predictor](https://github.com/dinethlive/crash-game-predictor)** - GUI prediction tool for betting games using ML.
 - 🖼️ **NFT Marketplace** - Fully functional NFT marketplace (DCrypto).
