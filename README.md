@@ -41,10 +41,9 @@ I build AI-first trading products.
 
 - 📈 **[MT5-Indicators Collection](https://github.com/dinethlive/MT5-indicators-collection)** - Collection of MT5 indicators for Deriv trading.
 - 💥 **[Crash Game Scanner](https://github.com/dinethlive/crash-game-scanner)** - Real-time monitor and predictor for 1xBet crash game.
-- 🗣️ **Natural Reader Unlimited** - Ebook reader with natural-sounding AI voices.
 - 🎣 **[Fishing Game Patterns Recognizer](https://github.com/dinethlive/fishing-game-patterns-recognizer)** - Python tool for pattern recognition in fishing games.
 - 🎰 **[Crash Game Predictor](https://github.com/dinethlive/crash-game-predictor)** - GUI prediction tool for betting games using ML.
-- 🖼️ **NFT Marketplace** - Fully functional NFT marketplace (DCrypto).
+- 🖼️ **NFT Marketplace** - Fully functional NFT marketplace in 2022(DCrypto).
 
 ## Connect
 
