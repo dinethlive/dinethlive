@@ -2,7 +2,7 @@
 
 I build AI-first trading products.
 
-🎨 **Design (AI + UX/UI)** | 🛠️ **Engineering** | 📈 **Prediction Markets** | 📉 **Trading Systems** | 🔗 **Web3**
+**Design (AI + UX/UI)** | **Engineering** | **Prediction Markets** | **Trading Systems** | **Web3**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
