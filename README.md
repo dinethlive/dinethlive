@@ -57,7 +57,3 @@ I build AI-first trading products.
 [![LinkedIn](https://img.shields.io/badge/-Dineth-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinethlive/)
 
 ---
-
-### Philosophy
-
-> "Build and Ship fast following Design and UX rather than following legacy rule books."
