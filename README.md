@@ -22,7 +22,7 @@ I build AI-first trading products.
 
 - 📉 **[vix scanner](https://github.com/dinethlive/vix-scanner)** - Real-time volatility monitoring for Deriv Accumulator Options.
 - 📊 **[PolyFlow](https://github.com/dinethlive/polyflow)** - Real-time analytics for Polymarket Solana 15-min markets.
-- 🌉 **Solana MT5 Bridge** - Visualizes Oracle settlement data in MT5 for resolution markets.
+- 🌉 **Solana MT5 Bridge(https://github.com/dinethlive/solana-mt5-bridge)** - Visualizes Oracle settlement data in MT5 for resolution markets.
 - 🔌 **Synapse** - Desktop bridge for MT5 trading signals to Deriv.com.
 
 ## Projects (Astrology)
