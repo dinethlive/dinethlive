@@ -34,7 +34,7 @@ Interested in Applied AI for trading systems and iGaming
 - **30days.health** - Vedic astrology forecasting engine integrated with LLMs.
 - **Jhora-api** - High-precision REST API for Vedic Astrology calculations.
 
-## Projects (MT5 Expert Advisors)
+## Projects (MT5)
 
 - **[dbasket-EA](https://github.com/dinethlive/dbasket-EA)** - MT5 Expert Advisor for three-pair correlation hedging.
 - **[dlab_orbit_EA](https://github.com/dinethlive/dlab_orbit_EA)** - VWAP Breakout EA with Smart Recovery algorithms.
